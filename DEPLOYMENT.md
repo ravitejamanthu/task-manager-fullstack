@@ -19,10 +19,10 @@ Your React frontend is now deployed at:
 2. **Connect GitHub** repository
 3. **Deploy from GitHub**:
    - Select your repository: `ravitejamanthu/task-manager-fullstack`
-   - Railway will auto-detect it's a Java project
+   - Railway will now properly detect the Java project structure
    - Set environment variables:
      ```
-     JWT_SECRET=your-super-secret-jwt-key-here
+     JWT_SECRET=qkbDubiQ6K+8tYQJT/cMqSxl3XBQU1HOnuTEz/Cva2k=
      ALLOWED_ORIGINS=https://ravitejamanthu.github.io
      ```
 4. **Get your backend URL** (e.g., `https://your-app.railway.app`)
